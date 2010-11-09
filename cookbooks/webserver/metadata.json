@@ -1,0 +1,32 @@
+{
+  "attributes": {
+  },
+  "conflicting": {
+  },
+  "dependencies": {
+    "apache2": [
+
+    ]
+  },
+  "providing": {
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "recipes": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "replacing": {
+  },
+  "platforms": {
+  },
+  "license": "All rights reserved",
+  "version": "0.0.1",
+  "maintainer_email": "YOUR_EMAIL",
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "name": "webserver",
+  "description": "Installs/Configures webserver",
+  "suggestions": {
+  }
+}
