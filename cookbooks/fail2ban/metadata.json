@@ -1,23 +1,17 @@
 {
-  "license": "Apache 2.0",
-  "recipes": {
-    "fail2ban": ""
+  "attributes": {
   },
   "conflicting": {
-
   },
   "dependencies": {
-
   },
   "providing": {
-    "fail2ban": [
-
-    ]
   },
   "long_description": "",
-  "description": "Installs and configures fail2ban",
+  "recipes": {
+  },
+  "maintainer": "Opscode, Inc.",
   "replacing": {
-
   },
   "platforms": {
     "debian": [
@@ -27,17 +21,15 @@
 
     ]
   },
+  "license": "Apache 2.0",
   "version": "0.7.0",
-  "maintainer": "Opscode, Inc.",
+  "maintainer_email": "cookbooks@opscode.com",
+  "groupings": {
+  },
   "recommendations": {
-
   },
   "name": "fail2ban",
-  "maintainer_email": "cookbooks@opscode.com",
-  "attributes": {
-
-  },
+  "description": "Installs and configures fail2ban",
   "suggestions": {
-
   }
 }
